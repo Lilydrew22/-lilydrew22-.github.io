@@ -1,0 +1,22 @@
+main {
+    text-align: center;
+    background-color: #7a06d9;
+    background-blend-mode: lighten;
+    max-width: 500px;
+    margin: 20px auto;
+    border-radius: 50px;
+    box-shadow: 10px 10px rgba(252, 250, 250, 0.969);
+    color: rgb(246, 238, 238);
+  }
+  body {
+    text-align: center;
+    background: #f0ebf3;
+    color: rgb(224, 136, 240);
+  }
+  input, textarea, select, button {
+    background: #3a3240;
+    color: rgb(224, 136, 240);
+  }
+  a {
+    color: rgb(220, 0, 224);
+  }
